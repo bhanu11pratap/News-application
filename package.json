@@ -2,7 +2,7 @@
   "name": "news-bytes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kaustav-bhattacharya.github.io",
+  "homepage": "https://bhanu11pratap.github.io/News-application",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
